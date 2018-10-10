@@ -1,8 +1,4 @@
-/*
-Assignment 3 Header File
-Russell Horvath
-CIS*2500
-*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #ifndef MEMCHECK_H
